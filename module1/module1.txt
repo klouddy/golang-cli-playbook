@@ -1,3 +1,4 @@
+GOOS=windows
 set GO111MODULE=on
 set GOARCH=amd64
 set GOBIN=
@@ -11,7 +12,6 @@ set GOINSECURE=
 set GOMODCACHE=C:\dev\src\go\pkg\mod
 set GONOPROXY=
 set GONOSUMDB=
-set GOOS=windows
 set GOPATH=C:\dev\src\go;C:\dev\go
 set GOPRIVATE=
 set GOPROXY=https://proxy.golang.org,direct
